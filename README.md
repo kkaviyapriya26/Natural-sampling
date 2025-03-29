@@ -2,7 +2,6 @@
 ## Aim 
 To perform natural sampling by multiplying a message signal with a pulse train. To analyze the sampled signal and observe its reconstruction.
 ## Tools required 
-- Personal Computer with Scilab
 - Python IDE (Numpy)
 ## Program 
 ~~~
